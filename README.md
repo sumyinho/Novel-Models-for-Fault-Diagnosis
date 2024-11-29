@@ -19,7 +19,7 @@ This subject contains papers, codes, and data used for discussion in this articl
 > We list the papers according to the basic framework of the method, which can be roughly divided into **CNN-based**, **LSTM-based** and **attention mechanism**
 ### Survey
 ***
- - Are Novel Deep Learning Methods Effective for Fault Diagnosis？
+ - Are Novel Deep Learning Methods Effective for Fault Diagnosis？[**[IEEE TR 2024]**]()
 
 ### Fault diagnosis method based on CNN
 ***
@@ -47,7 +47,9 @@ stacked LSTM model (**MDRL-SLSTM**) [[**MEAS 2021**]](https://www.sciencedirect.
 
 Our code is released at [[**Code link**]](https://github.com/sumyinho/Novel-Models-for-Fault-Diagnosis/tree/master)
 
-You can check the structure framework of different models by looking at `model_name.py` in the model file.
+You can check the structure framework of different models by looking at `model_name.py` in the `model` file.
+
+If you want to see the details and settings of the code running, you can try to reproduce it by running `exp_model_name.py` in the `experiment` file
 
 
 ## 👜Data
@@ -56,9 +58,9 @@ You can check the structure framework of different models by looking at `model_n
 > 
 |  Index| Year|Dataset name|Component|Original data link|Selected data Link|
 |--|--|--|--|--|--|
-| 01 | 2015 |CWRU|bearing|[[data link]](https://engineering.case.edu/bearingdatacenter/apparatus-and-procedures)|-|
-|02|2016|PU|bearing|[[data link]](https://groups.uni-paderborn.de/kat/BearingDataCenter/)|-|
-|03|2018|XJTU|bearing|[[data link]](https://biaowang.tech/xjtu-sy-bearing-datasets/)|-|
+| 01 | 2015 |CWRU|bearing|[[data link]](https://engineering.case.edu/bearingdatacenter/apparatus-and-procedures)|[[data link]](https://pan.quark.cn/s/88cfe9985bc7)|
+|02|2016|PU|bearing|[[data link]](https://groups.uni-paderborn.de/kat/BearingDataCenter/)|[[data link]](https://pan.quark.cn/s/88cfe9985bc7)|
+|03|2018|XJTU|bearing|[[data link]](https://biaowang.tech/xjtu-sy-bearing-datasets/)|[[data link]](https://pan.quark.cn/s/88cfe9985bc7)|
 
 ## :telephone:Contact
 If you have any problem, please feel free to contact me.
