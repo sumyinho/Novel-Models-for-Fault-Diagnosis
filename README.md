@@ -8,7 +8,7 @@ This subject contains papers, codes, and data used for discussion in this articl
 
  - [Papers of diagnosis](文献)
 	 - [Survey]()
-	 - [Fault diagnosis method based on CNN](CNN)
+	 - [Fault diagnosis method based on CNN](https://github.com/sumyinho/Novel-Models-for-Fault-Diagnosis/tree/master?tab=readme-ov-file#fault-diagnosis-method-based-on-cnn)
 	 - [ Fault diagnosis method based on LSTM](LSTM)
 	 - [Fault diagnosis method with attention mechanism](ATT)
  - [code](代码)
