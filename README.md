@@ -6,13 +6,13 @@ This subject contains papers, codes, and data used for discussion in this articl
 
 ## Content
 
- - [Papers of diagnosis](文献)
-	 - [Survey]()
-	 - [Fault diagnosis method based on CNN](CNN)
-	 - [ Fault diagnosis method based on LSTM](LSTM)
-	 - [Fault diagnosis method with attention mechanism](ATT)
- - [code](代码)
- - [data](数据)
+ - [Papers of diagnosis](https://github.com/sumyinho/Novel-Models-for-Fault-Diagnosis/tree/master?tab=readme-ov-file#papers)
+	 - [Survey](https://github.com/sumyinho/Novel-Models-for-Fault-Diagnosis/tree/master?tab=readme-ov-file#survey)
+	 - [Fault diagnosis method based on CNN](https://github.com/sumyinho/Novel-Models-for-Fault-Diagnosis/tree/master?tab=readme-ov-file#Fault-diagnosis-method-based-on-CNN)
+	 - [ Fault diagnosis method based on LSTM](https://github.com/sumyinho/Novel-Models-for-Fault-Diagnosis/tree/master?tab=readme-ov-file#Fault-diagnosis-method-based-on-lstm)
+	 - [Fault diagnosis method with attention mechanism](https://github.com/sumyinho/Novel-Models-for-Fault-Diagnosis/tree/master?tab=readme-ov-file#Fault-diagnosis-method-with-attention-mechanism)
+ - [code](https://github.com/sumyinho/Novel-Models-for-Fault-Diagnosis/tree/master?tab=readme-ov-file#code)
+ - [data](https://github.com/sumyinho/Novel-Models-for-Fault-Diagnosis/tree/master?tab=readme-ov-file#data)
  
  ## 📝Papers
  
