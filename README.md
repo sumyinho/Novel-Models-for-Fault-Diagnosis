@@ -6,15 +6,15 @@ This subject contains papers, codes, and data used for discussion in this articl
 
 ## Content
 
- - [Papers of diagnosis](https://github.com/sumyinho/Novel-Models-for-Fault-Diagnosis/tree/master?tab=readme-ov-file#papers)
-	 - [Survey](https://github.com/sumyinho/Novel-Models-for-Fault-Diagnosis/tree/master?tab=readme-ov-file#survey)
-	 - [Fault diagnosis method based on CNN](https://github.com/sumyinho/Novel-Models-for-Fault-Diagnosis/tree/master?tab=readme-ov-file#fault-diagnosis-method-based-on-cnn)
-	 - [ Fault diagnosis method based on LSTM](https://github.com/sumyinho/Novel-Models-for-Fault-Diagnosis/tree/master?tab=readme-ov-file#fault-diagnosis-method-based-on-lstm)
-	 - [Fault diagnosis method with attention mechanism](https://github.com/sumyinho/Novel-Models-for-Fault-Diagnosis/tree/master?tab=readme-ov-file#fault-diagnosis-method-with-attention-mechanism)
- - [code](https://github.com/sumyinho/Novel-Models-for-Fault-Diagnosis/tree/master?tab=readme-ov-file#code)
- - [data](https://github.com/sumyinho/Novel-Models-for-Fault-Diagnosis/tree/master?tab=readme-ov-file#data)
+ - [Papers of diagnosis](文献)
+	 - [Survey]()
+	 - [Fault diagnosis method based on CNN](CNN)
+	 - [ Fault diagnosis method based on LSTM](LSTM)
+	 - [Fault diagnosis method with attention mechanism](ATT)
+ - [code](代码)
+ - [data](数据)
  
- ## Papers
+ ## 📝Papers
  
 > We list the papers according to the basic framework of the method, which can be roughly divided into **CNN-based**, **LSTM-based** and **attention mechanism**
 ### Survey
@@ -40,14 +40,17 @@ stacked LSTM model (**MDRL-SLSTM**) [[**MEAS 2021**]](https://www.sciencedirect.
  - Interpreting network knowledge with attention mechanism for bearing fault diagnosis (**ATTMBIGRU**) [[**ASC 202**]](https://www.sciencedirect.com/science/article/abs/pii/S1568494620307675)
  - Understanding and Learning Discriminant Features based on Multiattention 1DCNN for Wheelset Bearing Fault Diagnosis (**MA1DCNN**) [[**TII 2020**]](https://ieeexplore.ieee.org/abstract/document/8911240)
 
- ## Code
+ ## 🔧Code
  
 
 > The provided code is basically unofficial, but the team reproduced it through the experimental details provided in the above paper
 
 Our code is released at [[**Code link**]](https://github.com/sumyinho/Novel-Models-for-Fault-Diagnosis/tree/master)
 
-## Data
+You can check the structure framework of different models by looking at `model_name.py` in the model file.
+
+
+## 👜Data
 
 > The three public datasets used in this article are provided, including the original dataset and the selected data in this paper.
 > 
@@ -57,13 +60,13 @@ Our code is released at [[**Code link**]](https://github.com/sumyinho/Novel-Mode
 |02|2016|PU|bearing|[[data link]](https://groups.uni-paderborn.de/kat/BearingDataCenter/)|-|
 |03|2018|XJTU|bearing|[[data link]](https://biaowang.tech/xjtu-sy-bearing-datasets/)|-|
 
-## Contact
+## :telephone:Contact
 If you have any problem, please feel free to contact me.
 Name: Chenxian He
 Email address: [sumyin.ho@outlook.com](mailto:sumyin.ho@outlook.com)
 
-# BibTex Citation
-If you find this paper and repository useful, please cite our paper
+# 🔎BibTex Citation
+If you find this paper and repository useful, please cite our paper. It helps in the recognition and dissemination of our work. Please use the following citation format🤗:
 ```
 
 ```
