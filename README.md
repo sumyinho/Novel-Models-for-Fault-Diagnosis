@@ -55,7 +55,25 @@ If you want to see the details and settings of the code running, you can try to 
 ## 👜Data
 
 > The three public datasets used in this article are provided, including the original dataset and the selected data in this paper.
-> 
+>
+You first need to create a `dataset` folder in the directory and create separate files for different datasets.
+```
+.
+└── datasets
+    └── CWRU
+        ├── 97.mat
+        │── 98.mat
+        │── 106.mat
+        │   ...
+        │── 162.mat
+    └── XJTU
+        ├── Bearing2_1
+        │   ├── 1.csv
+        │   │── 2.csv
+        │   ...
+        ├── Bearing2_2
+        ...
+```
 |  Index| Year|Dataset name|Component|Original data link|Selected data Link|
 |--|--|--|--|--|--|
 | 01 | 2015 |CWRU|bearing|[[data link]](https://engineering.case.edu/bearingdatacenter/apparatus-and-procedures)|[[data link]](https://pan.quark.cn/s/88cfe9985bc7)|
