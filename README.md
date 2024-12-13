@@ -88,5 +88,14 @@ Email address: [sumyin.ho@outlook.com](mailto:sumyin.ho@outlook.com)
 # 🔎BibTex Citation
 If you find this paper and repository useful, please cite our paper. It helps in the recognition and dissemination of our work. Please use the following citation format🤗:
 ```
-
+@ARTICLE{10795217,
+  author={Jiang, Dongnian and He, Chenxian and Chen, Zeyang and Zhao, Jinjiang},
+  journal={IEEE Transactions on Reliability}, 
+  title={Are Novel Deep Learning Methods Effective for Fault Diagnosis?}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-15},
+  keywords={Baseline models;comparison of models;data processing framework;mechanical fault diagnosis;performance comparison;state-of-the-art (SOTA) model},
+  doi={10.1109/TR.2024.3510387}}
 ```
